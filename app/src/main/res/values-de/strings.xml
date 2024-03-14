@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LAB4</string>
+    <string name="msg_show_str">Ratet mal!</string>
+    <string name="hint_show_str">Vorgesehen ist eine zweistellige Zahl.</string>
+    <string name="guess_str">Erraten</string>
+    <string name="attempts_left_str">5</string>
+    <string name="restart_str">Ein neuer</string>
+    <string name="wishYou">Glückwunsch!</string>
+    <string name="guessed">Vermutet</string>
+    <string name="more">Mehr</string>
+    <string name="less">Weniger</string>
+    <string name="end">Ende</string>
+</resources>

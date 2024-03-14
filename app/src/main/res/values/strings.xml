@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LAB4</string>
+    <string name="msg_show_str">Отгадай!</string>
+    <string name="hint_show_str">Задумано двузначное число.</string>
+    <string name="guess_str">Отгадать</string>
+    <string name="attempts_left_str">5</string>
+    <string name="restart_str">Заново</string>
+    <string name="wishYou">Поздравляю!</string>
+    <string name="guessed">Отгадано</string>
+    <string name="more">Больше</string>
+    <string name="less">Меньше</string>
+    <string name="end">конец</string>
+
+</resources>
